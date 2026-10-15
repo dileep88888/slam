@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for River Quest level progression (Easy to Hard), removing the boss from Level 1, introducing the Leviathan Boss in subsequent levels with escalating difficulty, and updating stage transitions and HUD.",
+  "updatedAt": "2026-10-15T12:28:24.627134035Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

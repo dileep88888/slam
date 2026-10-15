@@ -1,0 +1,6 @@
+{
+  "name": "RIVER QUEST",
+  "description": "A 16-bit pixel-art 2D action-platformer game featuring a bearded hero in shalwar kameez battling robotic serpents and river leviathans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
